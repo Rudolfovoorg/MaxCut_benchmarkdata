@@ -1,17 +1,26 @@
 abstract: "This is my awesome research software. It does many things."
 authors:
+  - family-names: Hrga
+    given-names: Timotej
+    orcid: "https://orcid.org/0000-0002-4852-1986"
+  - family-names: Eržen
+    given-names: Vid
   - family-names: Povh
     given-names: Janez
-    orcid: "https://orcid.org/0000-0001-8888-9999"
-cff-version: 1.2.0
-date-released: "2021-10-13"
+    orcid: "https://orcid.org/0000-0002-9856-1476"
+  - family-names: Vodeb
+    given-names: Jaka
+    orcid: "https://orcid.org/0000-0002-6193-3475"
+cff-version: 0.0.2
+date-released: "2024-12-07"
 keywords:
-  - "amazing software"
-  - research
+  - "Max-Cut"
+  - "QUBO"
+  - "quantum annealing"
+  - "simulated annealing"
+  - "global optimum"
 license: Apache-2.0
-message: "If you use this software, please cite it using the metadata from this file."
-repository-code: "https://github.com/citation-file-format/my-research-software"
-title: "My Research Software"
-version: 0.11.2
-
-                            
+message: "If you use this dataset, please cite it using the metadata from this file."
+repository-code: "https://github.com/Rudolfovoorg/MaxCut_benchmarkdata"
+title: "Max-Cut benchmark dataset"
+version: 0.0.2
