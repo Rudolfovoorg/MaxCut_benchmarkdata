@@ -1,7 +1,7 @@
 abstract: "This is my awesome research software. It does many things."
 authors:
-  - family-names: Doe
-    given-names: John
+  - family-names: Povh
+    given-names: Janez
     orcid: "https://orcid.org/0000-0001-8888-9999"
 cff-version: 1.2.0
 date-released: "2021-10-13"
