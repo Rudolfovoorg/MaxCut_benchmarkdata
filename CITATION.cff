@@ -1,4 +1,5 @@
-abstract: "This is my awesome research software. It does many things."
+abstract: "This is dataset, supporting the paper Performance Evaluation of Quantum and Classical
+Solvers for the Max-Cut Problem, written by the authors of this dataset."
 authors:
   - family-names: Hrga
     given-names: Timotej
