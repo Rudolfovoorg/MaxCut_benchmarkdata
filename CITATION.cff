@@ -12,7 +12,7 @@ authors:
   - family-names: Vodeb
     given-names: Jaka
     orcid: "https://orcid.org/0000-0002-6193-3475"
-cff-version: 0.0.2
+cff-version: 0.0.1
 date-released: "2024-12-07"
 keywords:
   - "Max-Cut"
