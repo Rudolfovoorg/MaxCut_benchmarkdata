@@ -1,11 +1,11 @@
 abstract: "This is dataset, supporting the paper Performance Evaluation of Quantum and Classical
 Solvers for the Max-Cut Problem, written by the authors of this dataset."
 authors:
+  - family-names: Eržen
+    given-names: Vid
   - family-names: Hrga
     given-names: Timotej
     orcid: "https://orcid.org/0000-0002-4852-1986"
-  - family-names: Eržen
-    given-names: Vid
   - family-names: Povh
     given-names: Janez
     orcid: "https://orcid.org/0000-0002-9856-1476"
